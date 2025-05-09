@@ -1,4 +1,4 @@
-### Hi there is HuGtoX 👋
+### Hi there is Gixy's space 👋
 
 - 🔭 I’m currently working on Front-end
 - 🌱 I'm programming a tool-kit website
@@ -13,7 +13,7 @@
 
 
 ## 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HuGtoX&hide_title=true&show_icons=true)](https://github.com/HuGtoX)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HuGtoX&hide_title=true&show_icons=true)](https://github.com/HuGtoX)<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuGtoX&layout=compact&theme=buefy&hide_border=true" />
 
 <p>
   <strong>languages: </strong>
