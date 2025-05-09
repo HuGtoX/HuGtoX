@@ -1,7 +1,9 @@
-### Hi there is Gixy's space 👋
+### Hi there 👋 I'm Gixy 
 
-- 🔭 I’m currently working on Front-end
-- 🌱 I'm programming a tool-kit website
+**💻 Front-end Developer | 🛠️ Building Tool-Kit Website**
+
+[![Portfolio Badge](https://img.shields.io/badge/🚀-My_Portfolio-8A2BE2?style=flat)](https://your-portfolio-link)
+[![Blog Badge](https://img.shields.io/badge/📖-Tech_Blog-00BFFF?style=flat)](https://your-blog-link)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
@@ -11,9 +13,17 @@
 </a>  
 
 
+### 🛠 Tech Stack
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=fff)
 
-## 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HuGtoX&hide_title=true&show_icons=true)](https://github.com/HuGtoX)<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuGtoX&layout=compact&theme=buefy&hide_border=true" />
+---
+
+### 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HuGtoX&bg_color=135,EEC9A3,EF629F&title_color=fff&text_color=555&hide=prs&hide_title=true&show_icons=true&)](https://github.com/HuGtoX)<img  
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuGtoX&layout=compact&theme=buefy&hide_border=true" />
 
 <p>
   <strong>languages: </strong>
