@@ -22,7 +22,7 @@
 ---
 
 ### 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HuGtoX&bg_color=135,EEC9A3,EF629F&title_color=fff&text_color=555&hide=prs&hide_title=true&show_icons=true&)](https://github.com/HuGtoX)<img  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HuGtoX&bg_color=135,EEC9A3,EF629F&title_color=fff&text_color=555&hide_title=true&show_icons=true&)](https://github.com/HuGtoX)<img  
  src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuGtoX&layout=compact&theme=buefy&hide_border=true" />
 
 <p>
