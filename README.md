@@ -22,7 +22,6 @@
 ---
 
 ### 📌 Featured Projects
-基于你的仓库实际开发内容，精选核心项目展示
 - 🔧 **[GixySpace](https://github.com/HuGtoX/GixySpace)** - 一站式实用工具集Web应用，解决日常工作各类通用需求（JavaScript）
 - 🔌 **[wecom-plugin](https://github.com/HuGtoX/wecom-plugin)** - 企业微信实用插件开发（TypeScript | 最新维护）
 - 🧩 **[browse-plugin](https://github.com/HuGtoX/browse-plugin)** - 浏览器行为优化插件，解决各类浏览器不良使用行为（TypeScript）
